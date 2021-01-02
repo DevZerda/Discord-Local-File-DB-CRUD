@@ -1,6 +1,7 @@
 # Discord-Local-File-DB-CRUD
 A crud for discord DDOS BOTs (My Custom Module)
-
+Dont forget to change db file path!
+-----------------------------------------------------------------------------------------------------------
 Crud Module Functions
 
 Name         |   Function Code
