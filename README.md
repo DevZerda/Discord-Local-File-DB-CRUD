@@ -4,15 +4,15 @@ Dont forget to change db file path!
 -----------------------------------------------------------------------------------------------------------
 Crud Module Functions
 
-Name/Functions |   Function Code
---------------------------------------------------
-Register(C)    | register(discord, discord_id);
-User (R)       | user(stat, discord_id);
-Update (U)     | update(stat_to_change, new_stat, user_discord_id);
-Remove (D)     | remove(discord_id);
-isRegistered   | isRegistered(discord_id);
-isAdmin        | isAdmin(discord_id);
-isPremium      | isPremium(discord_id);
+Name/Functions | Return Type     |   Function Code
+-----------------------------------------------------------------------------------------------------------
+Register(C)    | Return String   | register(discord, discord_id);
+User (R)       | Return String   | user(stat, discord_id);
+Update (U)     | String String   | update(stat_to_change, new_stat, user_discord_id);
+Remove (D)     | Return String   | remove(discord_id);
+isRegistered   | Return Boolen   | isRegistered(discord_id);
+isAdmin        | Return Boolen   | isAdmin(discord_id);
+isPremium      | Return Boolen   | isPremium(discord_id);
 
 -----------------------------------------------------------------------------------------------------------
 register(discord, discord_id); [REGISTER DISCORD USER]
