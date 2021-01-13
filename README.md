@@ -2,7 +2,8 @@
 A crud for discord DDOS BOTs (My Custom Module)
 Dont forget to change db file path!
 -----------------------------------------------------------------------------------------------------------
-Crud Module Functions
+Crud Module Functions (NEW JS DEVs > Create a 'db' Folder with 'users.db' in it
+-----------------------------------------------------------------------------------------------------------
 
 Name/Functions | Return Type     |   Function Code
 -----------------------------------------------------------------------------------------------------------
